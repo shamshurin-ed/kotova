@@ -9,3 +9,11 @@
   font-size: 32px;
   font-weight: bold;
 }
+
+.app__img {
+  display: block;
+  width: 420px;
+  max-width: 100%;
+  height: auto;
+  margin-bottom: 32px;
+}
